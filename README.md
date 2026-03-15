@@ -2,7 +2,7 @@
 # Hi 👋, I'm Dnyaneshwar Patil
 
 I'm a developer from India who enjoys building web applications and exploring Artificial Intelligence.  
-My goal is to become a **Full Stack Developer with strong knowledge of AI and Data Analysis**.
+My goal is to become a **Full Stack Developer with Basic knowledge of AI and Data Analysis**.
 
 📧 Email: dnyanucoder09@gmail.com
 
