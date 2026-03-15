@@ -63,8 +63,7 @@ My goal is to become a **Full Stack Developer with Basic knowledge of AI and Dat
 ![](https://nirzak-streak-stats.vercel.app/?user=Dnyanucoder&theme=ocean_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyanucoder&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dnyanucoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
