@@ -6,7 +6,7 @@ My goal is to become a **Full Stack Developer with Basic knowledge of AI and Dat
 
 📧 Email: dnyanucoder09@gmail.com
 
-Linkedin: linkedin.com/in/dnyaneshwar-patil-081770336
+Linkedin: https://www.linkedin.com/in/dnyaneshwar-patil-081770336/?skipRedirect=true
 
 ---
 
