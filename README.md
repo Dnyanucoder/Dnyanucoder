@@ -5,6 +5,7 @@ I'm a developer from India who enjoys building web applications and exploring Ar
 My goal is to become a **Full Stack Developer with Basic knowledge of AI and Data Analysis**.
 
 📧 Email: dnyanucoder09@gmail.com
+
 Linkedin: linkedin.com/in/dnyaneshwar-patil-081770336
 
 ---
