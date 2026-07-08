@@ -12,17 +12,17 @@ Linkedin: https://www.linkedin.com/in/dnyaneshwar-patil-081770336/?skipRedirect=
 
 ## 🚀 About Me
 
-- 🎯 My goal is to become a **Full Stack Developer with AI**
-- 🌱 Currently learning **MERN Stack and Artificial Intelligence**
-- 💻 Interested in **Web Development, AI, and Data Analysis**
-- 🧠 Exploring **Python libraries like NumPy, Pandas, and Matplotlib**
-- 💬 Ask me about **C, C++, Java, JavaScript, Python**
-- 🤝 Open to collaborating on **web development projects**
-- ⚡ Fun fact: I enjoy learning new technologies and building projects
+-  My goal is to become a **Full Stack Developer with AI**
+-  Currently learning **MERN Stack and Artificial Intelligence**
+-  Interested in **Web Development, AI, and Data Analysis**
+-  Exploring **Python libraries like NumPy, Pandas, and Matplotlib**
+-  Ask me about **C, C++, Java, JavaScript, Python**
+-  Open to collaborating on **web development projects**
+-  Fun fact: I enjoy learning new technologies and building projects
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dnyanucoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
@@ -54,11 +54,7 @@ Linkedin: https://www.linkedin.com/in/dnyaneshwar-patil-081770336/?skipRedirect=
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dnyanucoder&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
